@@ -1,0 +1,9 @@
+{
+  "items": [
+    {
+      "sku": "A-101",
+      "quantity": 10,
+      "unit_price_cents": 2500
+    }
+  ]
+}
